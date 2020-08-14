@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I’m Stanley, A Front End Software Engineer who likes to try out the latest technologies in my free time. I’m very passionate about writing clean and reusable code so that me and my team enjoy building out our products. Currently I am working for Currenxie, where we are building several applications to create a pleasant experience for our customers and colleagues. 
+
 <!--
 **inovux/inovux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
