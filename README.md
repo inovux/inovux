@@ -6,4 +6,4 @@ I’m Stanley, A Front End Software Engineer who likes to try out the latest tec
 
 💻 Trying to help out my favourite open source projects.
 
-🙌 Learn something new everyday
+🙌 Learning something new everyday.
